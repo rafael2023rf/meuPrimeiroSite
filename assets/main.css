@@ -18,4 +18,10 @@ body{
 
 .textoimg{
     display:flex;
+    gap: 1rem;
+}
+
+.codigos p{
+    color: white;
+    font-size: larger;
 }
