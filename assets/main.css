@@ -1,8 +1,21 @@
 .imgBloxfruit{
-    width:800px;
+    width:700px;
     border: 10px solid red;
 }
 
 h1{
     background-color: cyan;
+}
+
+body{
+    background-color: black;
+}
+
+.creditos{
+    
+    color: white;
+}
+
+.textoimg{
+    display:flex;
 }
